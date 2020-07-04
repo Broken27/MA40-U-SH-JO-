@@ -1,0 +1,10 @@
+{
+  "type": "MOD_INFO",
+  "mod_type": "SUPPLEMENTAL",
+  "ident": "moonsword-mod",
+  "name": "MA40-U SH(JO) armor mod",
+  "author": "Broken25",
+  "category": "content",
+  "description": "Adds the MA40-U SH(JO) armor. It doesn't spawn naturally as of now, so in order to get it you'll need to debug it in unfortunately.",
+  "path": ""
+}
